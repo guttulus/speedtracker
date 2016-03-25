@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DCF965217EFB6CB7F2FCE66FAF7B7BCD37125BB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1becca72-2228-4a25-89a4-6decaaf73df6++5510" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1becca72-2228-4a25-89a4-6decaaf73df6++5510" : 0,
+    "DCF965217EFB6CB7F2FCE66FAF7B7BCD37125BB6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F1D62E5-5943-4ADE-A191-E55DB6A7C551",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1becca72-2228-4a25-89a4-6decaaf73df6++5510" : "SpeedTracker\/SpeedoMeter\/JSON\/",
+    "DCF965217EFB6CB7F2FCE66FAF7B7BCD37125BB6" : "SpeedTracker"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpeedTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SpeedTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.10.215\/repos\/ecomail",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1becca72-2228-4a25-89a4-6decaaf73df6++5510"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/lemosys\/speedtracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCF965217EFB6CB7F2FCE66FAF7B7BCD37125BB6"
+    }
+  ]
+}
